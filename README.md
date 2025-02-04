@@ -2,13 +2,6 @@
 
 ---
 
-## 🏆 My GitHub Highlights
-
-Check out my coding streak and contributions!
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=suggestied&theme=iceberg&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ## 🎉 Let’s Connect & Create
 
